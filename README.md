@@ -1,8 +1,22 @@
-# php-eb
-Curso PHP na ESCOM Escola de Comunicações do Exército
-Aula 01 - Trabalhando varáveis em PHP e tipos de dados
-Aula 02 - Formulárop em PHP
-Aula 03 - Funções Matemáticas
-# Aula 01
-# Aula 02
-#Aula 03
+
+# Curso PHP na ESCOM Escola de Comunicações do Exército
+- Lógicad e Programação em PHP
+# Aula 01 - Trabalhando com Variáveis
+# Aula 02 - Conhecendo Formulários
+<form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+  </div>
+  <div class="form-group form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+# Aula 03 - IF ELSE FOR FOREACH
