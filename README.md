@@ -20,3 +20,20 @@
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 # Aula 03 - IF ELSE FOR FOREACH
+# GPRC
+Prontuário Digital
+Grupo de Pesquisa em Reabilitação Cardiopulmonar
+Acessível em
+http://www.criptoflix.com.br
+# Esse sistema web tem os seguintes pré-requisitos
+Banco de dados MYSQL
+Desenvolvido em PHP 5.6 desejável 7.0
+# Processo de Desenvolvimento
+- Foram feitas 5 reuniões em aproximadamente 3 meses onde forma levantados os requisitos, além de reuniões por skipe e troca de mensagens por whatsapp
+# Módulos do Sistema
+- Composição do Sistema formado por 6 módulos 
+# Módulo Pessoal
+- Cadastro básicos de dados dos pacientes, técnicos e médicos.
+# Módulo Exames Complementares 
+- São adicionados os exames complementares como (Urina, Fezes, Sangue, entre outros)
+
